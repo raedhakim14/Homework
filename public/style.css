@@ -1,0 +1,8 @@
+.center {
+    text-align:center;
+}
+.vote:hover {
+    cursor: hand;
+    transform: scale(1.5);
+    
+}
